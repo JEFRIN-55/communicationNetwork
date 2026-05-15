@@ -59,14 +59,23 @@ PC0 → Hub0 → Switch0 → PC5
 - Simulation starts at t = 0.000s.
 - Packet enters Hub0 and moves toward Switch0.
 
+- <img width="1917" height="1077" alt="Screenshot 2026-05-15 181814" src="https://github.com/user-attachments/assets/ac3cc6b5-53d3-46f8-9d01-23cf4eed86e8" />
+
+
 ## Simulation Screenshot 2 – Packet Traversing
 - Packet moves through Hub0 and Switch0.
 - Event list shows forwarding sequence.
+
+- <img width="1919" height="1079" alt="Screenshot 2026-05-15 181835" src="https://github.com/user-attachments/assets/ce615cce-38c2-4a71-865c-80d1892b0a42" />
+
 
 ## Simulation Screenshot 3 – Successful Delivery
 - Packet successfully reaches PC5.
 - Status shows Successful.
 - Packet loss is 0%.
+
+- <img width="1919" height="1079" alt="Screenshot 2026-05-15 181854" src="https://github.com/user-attachments/assets/fd7f9c20-9c96-4def-b65f-f6e635548ecc" />
+
 
 ---
 
